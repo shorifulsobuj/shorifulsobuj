@@ -1,4 +1,3 @@
-<h1 align="center">Hello Everyone </h2>
 <h1 align="center">I'm Shoriful Sobuj</h2>
 <h3 align="center">A Passionate Full Stack Web Developer & Cyber ​​Security Specialist. Passionate about tech and digital privacy.</h3>
 
