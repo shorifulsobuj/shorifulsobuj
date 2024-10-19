@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shoriful Sobuj</h1>
-<h3 align="center">A Expert Full Stack Web Developer & Cyber ​​Security Specialist.</h3>
+<h3 align="center">A Expert MERN Stack Web Developer & Cyber ​​Security Specialist.</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.shorifulsobuj.com/](https://www.shorifulsobuj.com/)
 
