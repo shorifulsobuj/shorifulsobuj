@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of My projects are available at [https://www.shorifulsobuj.com](https://www.shorifulsobuj.com)
 
-- 📫 To reach me **info@shorifulsobuj.com**
+- 📫 To reach me **@shorifulsobuj.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
