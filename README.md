@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Shoriful Sobuj</h1>
 <h3 align="center">A Expert MERN Stack Web Developer & Cyber ​​Security Specialist.</h3>
 
-- 👨‍💻 All of My projects are available at [https://www.shorifulsobuj.com](https://www.shorifulsobuj.com)
+- 👨‍💻 All of My projects are available at [https://www.shorifulsobuj.com/](https://www.shorifulsobuj.com)
 
 - 📫 To reach me **contact@shorifulsobuj.com**
 
