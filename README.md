@@ -1,6 +1,5 @@
 <h1 align="center">Hello 👋, I'm Shoriful Sobuj</h1>
-<h3 align="center">A Expert MERN Stack Web Developer & Cyber ​​Security </h3>
-
+<h3 align="center">A Expert MERN Stack Web Developer & Cyber ​​Security. </h3>
 
 - 📫 To reach me **contact@shorifulsobuj.com**
 
