@@ -3,7 +3,7 @@
 
 - 📫 To reach me **contact@shorifulsobuj.com**
 
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21966482" height="30" width="40" /></a>
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21966482" height="30" width="40" />
 https://fb.com/shorifulsobujj
 
 <h3 align="left">Languages and Tools:</h3>
