@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.shorifulsobuj.com](https://www.shorifulsobuj.com)
 
-- 📝 I regularly write articles on [https://www.shorifulsobuj.com/blog/](https://www.shorifulsobuj.com/blog/)
+- 📝 I regularly write articles on [https://www.shorifulsobuj.com/blog](https://www.shorifulsobuj.com/blog)
 
 - 📫 How to reach me **contact@shorifulsobuj.com**
 
