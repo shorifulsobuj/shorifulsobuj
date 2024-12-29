@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://www.shorifulsobuj.com](https://www.shorifulsobuj.com)
+- 👨‍💻 All of my projects are available at:- [https://www.shorifulsobuj.com](https://www.shorifulsobuj.com)
 
 - 📝 I regularly write articles on [https://www.shorifulsobuj.com/blog](https://www.shorifulsobuj.com/blog)
 
