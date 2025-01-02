@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I am Shoriful Sobuj.</h1>
-<h3 align="center">A passionate MERN Stack Web Developer from Bangladesh.</h3>
+<h3 align="center">A passionate MERN Stack Web Developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **React, Nesxt js, JavaScript**
 
-- 👨‍💻 All of my projects are available at:- [https://www.shorifulsobuj.com](https://www.shorifulsobuj.com)
+- 👨‍💻 All of my projects are available at: [https://www.shorifulsobuj.com](https://www.shorifulsobuj.com)
 
 - 📝 I regularly write articles on [https://www.shorifulsobuj.com/blog](https://www.shorifulsobuj.com/blog)
 
