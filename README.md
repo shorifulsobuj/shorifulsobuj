@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I am Shoriful Sobuj.</h1>
-<h3 align="center">A passionate MERN Stack Web Developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I am Shoriful Sobuj</h1>
+<h3 align="center">A passionate MERN Stack Web Developer from Bangladesh.</h3>
 
 - 🌱 I’m currently learning **React, Nesxt js, JavaScript**
 
-- 👨‍💻 All of my projects are available at:- [https://www.shorifulsobuj.com](https://www.shorifulsobuj.com)
+- 👨‍💻 All of my projects are available at: [https://www.shorifulsobuj.com](https://www.shorifulsobuj.com)
 
-- 📝 I regularly write articles on:- [https://www.shorifulsobuj.com/blog](https://www.shorifulsobuj.com/blog)
+- 📝 I regularly write articles on: [https://www.shorifulsobuj.com/blog](https://www.shorifulsobuj.com/blog)
 
 - 📫 How to reach me: **contact@shorifulsobuj.com**
 
-<h3 align="left">Connect with me:-</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shorifulsobuj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shorifulsobuj_" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21966482" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21966482" height="30" width="40" /></a>
