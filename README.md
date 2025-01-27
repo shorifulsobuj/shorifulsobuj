@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋👋👋, I am Shoriful Sobuj</h1>
+<h1 align="center">Hi 👋, I am Shoriful Sobuj</h1>
 <h3 align="center">A passionate MERN-Stack Web Developer from Bangladesh.</h3>
 
 - 🌱 I’m currently learning: **React, Nesxt-JS, JavaScript, WebSocket, Training.**
@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on: [https://www.shorifulsobuj.com/blog/](https://www.shorifulsobuj.com/blog/)
 
-- 📫 How to reach me: **contact@shorifulsobuj.com**
+- 📫 How to reach me: **contact@shorifulsobuj.com** 📫
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
