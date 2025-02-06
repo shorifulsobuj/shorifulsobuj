@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shoriful Sobuj</h1>
 <h3 align="center">A passionate MERN-Stack Web Developer from Bangladesh.</h3>
 
-- 🌱 I’m currently learning: **React JS, Node-JS, JavaScript.**
+- 🌱 I am currently learning: **React JS, Node-JS, JavaScript.**
 
 - 👨‍💻 All of my projects are available at: [https://www.shorifulsobuj.com](https://www.shorifulsobuj.com)
 
