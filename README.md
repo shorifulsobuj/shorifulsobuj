@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Shoriful Sobuj</h1>
+<h1 align="center">Hi 👋, I am Shoriful Islam Sobuj</h1>
 <h3 align="center">A passionate MERN Stack Web Developer from BD.</h3>
 
 - 🌱 I'm currently learning: **React JS, Node-JS, JavaScript.**
