@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on: [https://www.shorifulsobuj.com/blog/](https://www.shorifulsobuj.com/blog/)
 
-- 📫 How to reach Me: **contact@shorifulsobuj.com**
+- 📫 How to reach me: **contact@shorifulsobuj.com**
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
