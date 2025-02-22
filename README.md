@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Sh Sobuj</h1>
+<h1 align="center">Hi 👋, I am Shori Sobuj</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Bangladesh.</h3>
 
 - 🌱 I am currently learning: **React JS, Node-JS, JavaScript.**
