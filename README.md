@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Shoriful Islam Sobuj</h1>
-<h3 align="center">A passionate Full Stack Web Developer from Bangladesh.</h3>
+<h3 align="center">A passionate Full Stack Web Developer from Banglades.</h3>
 
 - 🌱 I am currently learning: **React, JavaScript.**
 
