@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Shoriful Sobuj </h1>
 <h3 align="center">A passionate Full Stack Web Developer from Bangladesh.</h3>
 
-- 🌱 I am currently learning: **React, JavaScript.**
+- 🌱 I am currently learning: **React, JavaScript WordPress **
 
 - 👨‍💻 All of my projects are available at: [https://www.shorifulsobuj.com](https://www.shorifulsobuj.com)
 
