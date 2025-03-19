@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I am Shoriful Sobuj </h1>
+<h1 align="center">Hi 👋, I am Shoriful Sobuj.</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Bangladesh.</h3>
 
 - 🌱 I am currently learning: **React, JavaScript WordPress **
 
 - 👨‍💻 All of my projects are available at: [https://www.shorifulsobuj.com](https://www.shorifulsobuj.com)
 
-- 📝 I regularly write articles on: [https://www.shorifulsobuj.com/blog/](https://www.shorifulsobuj.com/blog-01/)
+- 📝 I regularly write articles on: [https://www.shorifulsobuj.com/blog/](https://shorifulsobuj.com/blog-01/)
 
 - 📫 How to reach me: **contact@shorifulsobuj.com**
 
